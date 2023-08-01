@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(7, 7, 7);
+}
+#liveToastBtn{
+    border-radius: 5px;
+    color: white;
+    padding: 5px 70px;
+}
+#liveToastBtn:hover{
+    color: rgb(209, 208, 208);
+    cursor: pointer;
+}
+#task{
+    padding-right: 0;
+    width: 100%;
+}
